@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Rishupandey108/OurQuesition/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
