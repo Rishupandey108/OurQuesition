@@ -5,7 +5,7 @@ class Solution {
        String st = "";
 
        for(int i=0;i<s.length();i++){
-        if(vowel.indexOf(s.charAt(i))!=-1){
+        if(vowel(s.charAt(i))){
             st+=s.charAt(i);
         }
        }
@@ -19,11 +19,16 @@ class Solution {
 
         int j=0;
        for(int i=0;i<sb.length();i++){
-           if(vowel.indexOf(sb.charAt(i))!=-1){
+           if(vowel(sb.charAt(i))){
                 sb.setCharAt(i,arr[j++]);
             }
        } 
 
        return sb.toString();
+    }
+
+    public static boolean vowel(char ch){
+        return ch=='A' || ch=='E' || ch=='I' || ch=='O' ||ch =='U' 
+        || ch=='a' || ch=='e' || ch=='i' || ch=='o' ||ch =='u' ;
     }
 }
