@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rishupandey108/OurQuesition/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/0054-spiral-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0540-single-element-in-a-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rishupandey108/OurQuesition/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Rishupandey108/OurQuesition/tree/master/0409-longest-palindrome) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rishupandey108/OurQuesition/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0344-reverse-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
