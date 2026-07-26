@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
