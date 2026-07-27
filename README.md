@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Rishupandey108/OurQuesition/tree/master/1288-remove-covered-intervals) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Rishupandey108/OurQuesition/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2785-sort-vowels-in-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishupandey108/OurQuesition/tree/master/3536-maximum-product-of-two-digits) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
