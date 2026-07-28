@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 | [1791-find-center-of-star-graph](https://github.com/Rishupandey108/OurQuesition/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Depth-First Search
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rishupandey108/OurQuesition/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rishupandey108/OurQuesition/tree/master/0173-binary-search-tree-iterator) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
