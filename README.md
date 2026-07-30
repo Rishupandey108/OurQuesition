@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Rishupandey108/OurQuesition/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishupandey108/OurQuesition/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Combinatorics
 |  |
