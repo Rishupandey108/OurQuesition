@@ -7,23 +7,23 @@ class Solution {
 
          if(str.equals("+")){
 
-            //  if(!st.isEmpty()){
+            
 
                 int prev1 = st.pop();
                 int prev2 = st.peek();
                 int temp = prev1+prev2;
                 st.push(prev1);
-                // st.push(prev2);
+                 
                 st.push(temp);
-            //  } 
+           
 
          }else if(str.equals("D")){
 
-            // if(!st.isEmpty()){
+             
 
                 st.push(2*st.peek());
 
-            // }
+             
 
          }else if(str.equals("C")){
 
