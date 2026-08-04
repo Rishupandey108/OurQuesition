@@ -12,7 +12,7 @@ class Solution {
        }
 
        for(int i=min;i<=max;i++){
-        if(hst.add(i)){
+        if(!hst.contains(i)){
             lst.add(i);
         }
        }
