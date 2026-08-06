@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 | [1791-find-center-of-star-graph](https://github.com/Rishupandey108/OurQuesition/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rishupandey108/OurQuesition/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
 ## Tree
 |  |
 | ------- |
