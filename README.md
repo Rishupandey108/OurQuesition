@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3731-find-missing-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3731-find-missing-elements) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Rishupandey108/OurQuesition/tree/master/0999-available-captures-for-rook) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/1641-count-sorted-vowel-strings) |
 | [1922-count-good-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/1922-count-good-numbers) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
