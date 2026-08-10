@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/Rishupandey108/OurQuesition/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/Rishupandey108/OurQuesition/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Rishupandey108/OurQuesition/tree/master/3310-remove-methods-from-project) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rishupandey108/OurQuesition/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/Rishupandey108/OurQuesition/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Rishupandey108/OurQuesition/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/Rishupandey108/OurQuesition/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Rishupandey108/OurQuesition/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Rishupandey108/OurQuesition/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/Rishupandey108/OurQuesition/tree/master/0802-find-eventual-safe-states) |
 ## Tree
 |  |
 | ------- |
@@ -334,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1406-stone-game-iii) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Rishupandey108/OurQuesition/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Rishupandey108/OurQuesition/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
