@@ -3,22 +3,26 @@ class Solution {
 
       HashMap<Integer,Integer> hsmp = new HashMap<>();
 
-      int  maxsum =0;
-      int left = 0;
+     int front =0,next=0,result=0;
 
-     for(int i=0;i<nums.length;i++){
+     while(next<nums.length){
 
-            hsmp.put(nums[i],hsmp.getOrDefault(nums[i],0)+1);
+            hsmp.put(nums[next],hsmp.getOrDefault(nums[next],0)+1);
 
-            while(hsmp.get(nums[i])>k){
-                hsmp.put(nums[left],hsmp.get(nums[left])-1);
-                left++;
+            while(hsmp.get(nums[next])>k){
+
+                hsmp.put(nums[front],hsmp.get(nums[front])-1);
+
+                front++;
             }
 
-            maxsum = Math.max(maxsum,i-left+1);
-     } 
+            result = Math.max(result,next-front+1);
 
-     return maxsum;
+            next++;
+     }
+
+        return result;
+
 
     }
 }
