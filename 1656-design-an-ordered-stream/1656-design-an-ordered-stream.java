@@ -23,7 +23,7 @@ class OrderedStream {
 
             while(temp>=1){
                 if(arr[temp]==null){
-                    return new ArrayList<String>();
+                    return  result;
                 }
                 temp--;
             }
