@@ -4,10 +4,8 @@ class Solution {
         int sum =0,result = 0;
         int left=0;
 
-        for(int a:nums){
-            sum+=a;
-        }
-
+        
+        sum = Arrays.stream(nums).sum();
         for(int i=0;i<nums.length;i++){
 
             left+=nums[i];
