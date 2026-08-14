@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rishupandey108/OurQuesition/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2717-semi-ordered-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/2717-semi-ordered-permutation) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [2899-last-visited-integers](https://github.com/Rishupandey108/OurQuesition/tree/master/2899-last-visited-integers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Rishupandey108/OurQuesition/tree/master/0999-available-captures-for-rook) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rishupandey108/OurQuesition/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2717-semi-ordered-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/2717-semi-ordered-permutation) |
 | [2899-last-visited-integers](https://github.com/Rishupandey108/OurQuesition/tree/master/2899-last-visited-integers) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rishupandey108/OurQuesition/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
