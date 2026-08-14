@@ -3,9 +3,8 @@ class Solution {
          int n = nums.length;
          int result =0;
 
-         int min=1,max=nums.length;
+         int min=0,max=0;
 
-        
          for(int i=0;i<nums.length;i++){
             if(nums[i]==1){
                 min= i;
@@ -14,7 +13,6 @@ class Solution {
             }
          }
 
-
         result += Math.abs(0-min);
         result += Math.abs(n-max-1);
 
@@ -22,9 +20,6 @@ class Solution {
             result-=1;
         }
 
-        
          return result; 
-
-          
     }
 }
