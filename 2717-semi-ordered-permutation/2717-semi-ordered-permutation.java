@@ -6,25 +6,13 @@ class Solution {
          int min=1,max=nums.length;
 
         
-        for(int i=0;i<=nums.length/2-1;i++){
+         for(int i=0;i<nums.length;i++){
             if(nums[i]==1){
-                min = i;
-               
+                min= i;
             }else if(nums[i]==nums.length){
-                    max =i;
-                     
+                max =i;
             }
-        }
-
-        for(int i=nums.length/2;i<nums.length;i++){
-            if(nums[i]==n){
-                max = i;
-                
-            }else if(nums[i]==1){
-                min = i;
-                
-            }
-        }
+         }
 
 
         result += Math.abs(0-min);
