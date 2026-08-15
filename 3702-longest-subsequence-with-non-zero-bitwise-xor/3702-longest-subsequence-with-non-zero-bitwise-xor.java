@@ -6,14 +6,18 @@ class Solution {
        int zeros =0;
 
        for(int a:nums){
+
             count ^= a;
+
             if(a==0) zeros++;
        } 
 
        if(count!=0) return n;
-        if(zeros==n) return 0;
-       if(count ==0) return n-1;
 
-       return 0;
+        if(zeros==n) return 0;
+
+    //    if(count ==0) return n-1;
+
+       return n-1;
     }
 }
