@@ -17,17 +17,20 @@ class Solution {
                 }
             }
 
-            if(count>=value){
-
+            
                 if(count>value){
+
                 value = count;
                 result = divisors[i];
+
                 }else if(count==value){
+
                     value = count;
                     result = divisors[i]<result?divisors[i]:result;
+
                 }
 
-            }
+            
 
        }
     return result;
