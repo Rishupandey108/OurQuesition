@@ -1,7 +1,7 @@
 class Solution {
     public int maxDivScore(int[] nums, int[] divisors) {
       
-      Arrays.sort(divisors);
+    //   Arrays.sort(divisors);
       int result =Integer.MAX_VALUE,value =Integer.MIN_VALUE;
 
        for(int i=0;i<divisors.length;i++){
