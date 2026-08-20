@@ -7,7 +7,7 @@ class Solution {
             sum+=a;
         }
 
-        if(sum<k) return sum;
+        // if(sum<k) return sum;
 
         return sum%k;
     }
