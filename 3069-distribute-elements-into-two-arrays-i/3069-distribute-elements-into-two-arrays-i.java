@@ -1,6 +1,6 @@
 class Solution {
     public int[] resultArray(int[] nums) {
-       int [] arr = new int[nums.length] ;
+       int [] arr = new int[60];
 
         arr[0] = nums[1];
        int j=0;
