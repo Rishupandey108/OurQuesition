@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rishupandey108/OurQuesition/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2717-semi-ordered-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/2717-semi-ordered-permutation) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0583-delete-operation-for-two-strings) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishupandey108/OurQuesition/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishupandey108/OurQuesition/tree/master/3090-maximum-length-substring-with-two-occurrences) |
