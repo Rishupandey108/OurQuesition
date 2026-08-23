@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1406-stone-game-iii) |
 | [1641-count-sorted-vowel-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/1641-count-sorted-vowel-strings) |
 | [1922-count-good-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Rishupandey108/OurQuesition/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rishupandey108/OurQuesition/tree/master/2029-stone-game-ix) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rishupandey108/OurQuesition/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/Rishupandey108/OurQuesition/tree/master/1386-cinema-seat-allocation) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1927-sum-game](https://github.com/Rishupandey108/OurQuesition/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rishupandey108/OurQuesition/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishupandey108/OurQuesition/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0583-delete-operation-for-two-strings) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishupandey108/OurQuesition/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/Rishupandey108/OurQuesition/tree/master/1927-sum-game) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Rishupandey108/OurQuesition/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rishupandey108/OurQuesition/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
