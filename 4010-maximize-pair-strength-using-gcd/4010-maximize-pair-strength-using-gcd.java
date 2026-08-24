@@ -8,11 +8,13 @@ class Solution {
 
                 long val = (long)gcd(nums[i],nums[j]);
 
-                long res = (nums[i]/val) * (nums[j]/val);
+                 long res = (nums[i]/val)*(nums[j]/val);
 
-                  if(res>result){
-                        result = res;
-                  }
+                 if(res>result){
+                    result=res;
+                 }
+
+                  
             }
         }
 
