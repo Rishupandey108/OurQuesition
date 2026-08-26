@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Rishupandey108/OurQuesition/tree/master/1927-sum-game) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2785-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishupandey108/OurQuesition/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishupandey108/OurQuesition/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishupandey108/OurQuesition/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Combinatorics
