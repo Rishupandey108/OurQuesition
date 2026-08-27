@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rishupandey108/OurQuesition/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishupandey108/OurQuesition/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Rishupandey108/OurQuesition/tree/master/1291-sequential-digits) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Rishupandey108/OurQuesition/tree/master/3200-maximum-height-of-a-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rishupandey108/OurQuesition/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rishupandey108/OurQuesition/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0344-reverse-string) |
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0540-single-element-in-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
