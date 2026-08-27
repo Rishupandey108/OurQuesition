@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rishupandey108/OurQuesition/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4020-elevator-requests-i](https://github.com/Rishupandey108/OurQuesition/tree/master/4020-elevator-requests-i) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/Rishupandey108/OurQuesition/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
