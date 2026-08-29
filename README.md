@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/Rishupandey108/OurQuesition/tree/master/3895-count-digit-appearances) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rishupandey108/OurQuesition/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/Rishupandey108/OurQuesition/tree/master/4020-elevator-requests-i) |
 ## Matrix
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rishupandey108/OurQuesition/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/Rishupandey108/OurQuesition/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Rishupandey108/OurQuesition/tree/master/3945-digit-frequency-score) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rishupandey108/OurQuesition/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Greedy
