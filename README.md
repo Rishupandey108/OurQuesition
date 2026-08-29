@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/Rishupandey108/OurQuesition/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishupandey108/OurQuesition/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rishupandey108/OurQuesition/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishupandey108/OurQuesition/tree/master/3658-gcd-of-odd-and-even-sums) |
