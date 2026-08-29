@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rishupandey108/OurQuesition/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishupandey108/OurQuesition/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/Rishupandey108/OurQuesition/tree/master/3697-compute-decimal-representation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rishupandey108/OurQuesition/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Rishupandey108/OurQuesition/tree/master/3200-maximum-height-of-a-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rishupandey108/OurQuesition/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Number Theory
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
 | [1641-count-sorted-vowel-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/1641-count-sorted-vowel-strings) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
