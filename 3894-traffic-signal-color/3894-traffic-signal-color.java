@@ -1,10 +1,6 @@
 class Solution {
     public String trafficSignal(int timer) {
         
-        if(timer == 0) return "Green";
-        if(timer==30) return "Orange";
-        if(timer>30 && timer<=90) return "Red";
-
-        return "Invalid";
+        return timer==0?"Green":timer==30?"Orange":timer>30 && timer<=90?"Red":"Invalid";
     }
 }
