@@ -505,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Rishupandey108/OurQuesition/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rishupandey108/OurQuesition/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
