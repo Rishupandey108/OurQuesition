@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rishupandey108/OurQuesition/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
 | [0999-available-captures-for-rook](https://github.com/Rishupandey108/OurQuesition/tree/master/0999-available-captures-for-rook) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Rishupandey108/OurQuesition/tree/master/1288-remove-covered-intervals) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Rishupandey108/OurQuesition/tree/master/0682-baseball-game) |
 | [0999-available-captures-for-rook](https://github.com/Rishupandey108/OurQuesition/tree/master/0999-available-captures-for-rook) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rishupandey108/OurQuesition/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/2169-count-operations-to-obtain-zero) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Rishupandey108/OurQuesition/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
