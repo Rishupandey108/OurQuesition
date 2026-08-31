@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Rishupandey108/OurQuesition/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Rishupandey108/OurQuesition/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Rishupandey108/OurQuesition/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rishupandey108/OurQuesition/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Rishupandey108/OurQuesition/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rishupandey108/OurQuesition/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/2169-count-operations-to-obtain-zero) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Rishupandey108/OurQuesition/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rishupandey108/OurQuesition/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2717-semi-ordered-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/2717-semi-ordered-permutation) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Rishupandey108/OurQuesition/tree/master/2029-stone-game-ix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Rishupandey108/OurQuesition/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/2169-count-operations-to-obtain-zero) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishupandey108/OurQuesition/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/1641-count-sorted-vowel-strings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Stack
 |  |
 | ------- |
