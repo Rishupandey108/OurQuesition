@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rishupandey108/OurQuesition/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Rishupandey108/OurQuesition/tree/master/3895-count-digit-appearances) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/1641-count-sorted-vowel-strings) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Two Pointers
 |  |
 | ------- |
