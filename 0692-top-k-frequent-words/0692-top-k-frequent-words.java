@@ -7,44 +7,54 @@ class Solution {
             hsmp.put(s,hsmp.getOrDefault(s,0)+1);
         }
 
-        String[][] arr =new String[hsmp.size()][2];
+        // String[][] arr =new String[hsmp.size()][2];
 
-        int i=0;
+        // int i=0;
 
-        for(String s :hsmp.keySet()){
+        // for(String s :hsmp.keySet()){
 
-                arr[i][0] = s;
-                arr[i][1] = String.valueOf(hsmp.get(s));
-                i++;
+        //         arr[i][0] = s;
+        //         arr[i][1] = String.valueOf(hsmp.get(s));
+        //         i++;
 
-        }
+        // }
 
 
-        Arrays.sort(arr,(a,b)->{
+        // Arrays.sort(arr,(a,b)->{
 
-           int pointA = Integer.parseInt(a[1]);
-           int pointB = Integer.parseInt(b[1]);
+        //    int pointA = Integer.parseInt(a[1]);
+        //    int pointB = Integer.parseInt(b[1]);
 
-           if(pointA!=pointB){
-            return Integer.compare(pointB,pointA);
-           }
+        //    if(pointA!=pointB){
+        //     return Integer.compare(pointB,pointA);
+        //    }
 
-           return  a[0].compareTo(b[0]);
+        //    return  a[0].compareTo(b[0]);
 
         
+        // });
+
+        // int j=0;
+
+        List<String> lst = new ArrayList<>(hsmp.keySet());
+
+        lst.sort((a,b) ->{
+            if(hsmp.get(a)==hsmp.get(b)){
+                return a.compareTo(b);
+            }
+
+            return Integer.compare(hsmp.get(b),hsmp.get(a));
         });
 
-        int j=0;
 
-        List<String> lst = new ArrayList<>();
 
-        for(int l=0;l<k;l++){
+        // for(int l=0;l<k;l++){
 
-            lst.add(arr[j][0]);
-            j++;
-        }
+        //     lst.add(arr[j][0]);
+        //     j++;
+        // }
 
-        return lst;
+        return lst.subList(0,k);
 
 
     }
