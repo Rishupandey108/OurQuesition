@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rishupandey108/OurQuesition/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Rishupandey108/OurQuesition/tree/master/0682-baseball-game) |
+| [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rishupandey108/OurQuesition/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/0295-find-median-from-data-stream) |
+| [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Rishupandey108/OurQuesition/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 ## Binary Search Tree
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/0295-find-median-from-data-stream) |
+| [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 ## Nim Game
 |  |
@@ -575,9 +579,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rishupandey108/OurQuesition/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## K-D Tree
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
