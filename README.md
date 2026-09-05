@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Rishupandey108/OurQuesition/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Rishupandey108/OurQuesition/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Rishupandey108/OurQuesition/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishupandey108/OurQuesition/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
