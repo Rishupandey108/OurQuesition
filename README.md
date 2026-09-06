@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishupandey108/OurQuesition/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0115-distinct-subsequences](https://github.com/Rishupandey108/OurQuesition/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Rishupandey108/OurQuesition/tree/master/0409-longest-palindrome) |
 | [0481-magical-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0481-magical-string) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Rishupandey108/OurQuesition/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0583-delete-operation-for-two-strings) |
 | [1406-stone-game-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1406-stone-game-iii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
