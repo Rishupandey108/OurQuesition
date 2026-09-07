@@ -33,7 +33,6 @@ class Solution {
             if(curr.right!=null) q.add(curr.right);
         }
 
-
         return result;
     }
 }
