@@ -12,27 +12,17 @@ class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         
         
-        return findAncestor(root,p,q);
-        
-    }
-
-    public TreeNode findAncestor(TreeNode root , TreeNode p , TreeNode q){
-
-            if(root.val==p.val){
-                return root;
-            }
-         if(p.val>root.val && q.val>root.val){
-            return findAncestor(root.right,p,q);
-        }
-
-        if(p.val<root.val && q.val<root.val){
-            return findAncestor(root.left,p,q);
-        }
-
-        if(p.val<root.val && q.val>root.val){
+        if(root==null || root==p || root==q){
             return root;
         }
 
-        return root;
+        TreeNode left = lowestCommonAncestor(root.left,p,q);
+        TreeNode right = lowestCommonAncestor(root.right,p,q);
+
+        if(left!=null && right!=null){
+            return root;
+        }
+
+        return left!=null?left:right;
     }
 }
