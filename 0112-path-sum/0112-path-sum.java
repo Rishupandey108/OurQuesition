@@ -27,7 +27,7 @@ class Solution {
             return target==root.val;
         }
 
-       boolean b =  check(root.left,target-root.val)|| check(root.right,target-root.val);
+       boolean b =  check(root.left,target-root.val)|check(root.right,target-root.val);
 
         return b;
     }
