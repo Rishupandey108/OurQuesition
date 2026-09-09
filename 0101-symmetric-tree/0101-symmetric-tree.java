@@ -50,7 +50,7 @@ class Solution {
             }
 
 
-            return  p.isEmpty()&& q.isEmpty();
+            return   true;
          
     }
 }
