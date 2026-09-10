@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rishupandey108/OurQuesition/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishupandey108/OurQuesition/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2717-semi-ordered-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/2717-semi-ordered-permutation) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [2899-last-visited-integers](https://github.com/Rishupandey108/OurQuesition/tree/master/2899-last-visited-integers) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishupandey108/OurQuesition/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishupandey108/OurQuesition/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
