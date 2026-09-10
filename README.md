@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Rishupandey108/OurQuesition/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Rishupandey108/OurQuesition/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rishupandey108/OurQuesition/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Rishupandey108/OurQuesition/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Rishupandey108/OurQuesition/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rishupandey108/OurQuesition/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Rishupandey108/OurQuesition/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rishupandey108/OurQuesition/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
 | ------- |
