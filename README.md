@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/Rishupandey108/OurQuesition/tree/master/2409-count-days-spent-together) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Rishupandey108/OurQuesition/tree/master/2591-distribute-money-to-maximum-children) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishupandey108/OurQuesition/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Rishupandey108/OurQuesition/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
