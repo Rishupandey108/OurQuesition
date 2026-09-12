@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Rishupandey108/OurQuesition/tree/master/2409-count-days-spent-together) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Rishupandey108/OurQuesition/tree/master/2591-distribute-money-to-maximum-children) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
+| [2928-distribute-candies-among-children-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2928-distribute-candies-among-children-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/Rishupandey108/OurQuesition/tree/master/3024-type-of-triangle) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Rishupandey108/OurQuesition/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
+| [2928-distribute-candies-among-children-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2928-distribute-candies-among-children-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Rishupandey108/OurQuesition/tree/master/3200-maximum-height-of-a-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/1641-count-sorted-vowel-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2928-distribute-candies-among-children-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2928-distribute-candies-among-children-i) |
 ## Stack
 |  |
 | ------- |
