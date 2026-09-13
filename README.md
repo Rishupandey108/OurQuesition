@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0859-buddy-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Rishupandey108/OurQuesition/tree/master/1386-cinema-seat-allocation) |
+| [1399-count-largest-group](https://github.com/Rishupandey108/OurQuesition/tree/master/1399-count-largest-group) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
+| [1399-count-largest-group](https://github.com/Rishupandey108/OurQuesition/tree/master/1399-count-largest-group) |
 | [1603-design-parking-system](https://github.com/Rishupandey108/OurQuesition/tree/master/1603-design-parking-system) |
 | [2029-stone-game-ix](https://github.com/Rishupandey108/OurQuesition/tree/master/2029-stone-game-ix) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/Rishupandey108/OurQuesition/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1399-count-largest-group](https://github.com/Rishupandey108/OurQuesition/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
