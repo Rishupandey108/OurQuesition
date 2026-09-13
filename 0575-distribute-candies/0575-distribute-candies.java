@@ -2,22 +2,13 @@ class Solution {
     public int distributeCandies(int[] candyType) {
         
        HashSet<Integer> hst = new HashSet<>();
-
        int result =0;
 
-       for(int a:candyType){
+      for(int a:candyType){
+        hst.add(a);
+      }
 
-            if(hst.contains(a)){
-                continue;
-            }else{
-                hst.add(a);
-                result+=1;
-            }
-
-            if(result==candyType.length/2){
-                break;
-            }
-       }
+      result = Math.min(hst.size(),candyType.length/2);
 
        return result;
     }
