@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0463-island-perimeter](https://github.com/Rishupandey108/OurQuesition/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/Rishupandey108/OurQuesition/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0643-maximum-average-subarray-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Rishupandey108/OurQuesition/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0575-distribute-candies](https://github.com/Rishupandey108/OurQuesition/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
 | [0859-buddy-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0859-buddy-strings) |
