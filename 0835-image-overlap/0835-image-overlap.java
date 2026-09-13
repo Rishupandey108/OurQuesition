@@ -17,7 +17,7 @@ class Solution {
         }
 
         int result =0;
-        HashMap<String,Integer> hsmp = new HashMap<>();
+        HashMap<Integer,Integer> hsmp = new HashMap<>();
 
         for(int img1one[]:img1ones){
 
@@ -26,7 +26,7 @@ class Solution {
                 int dif1 = img2one[0] - img1one[0];
                 int dif2 = img2one[1] - img1one[1];
 
-                String compute =  dif2+" "+dif1;
+                int compute =  dif2*100 +dif1;
 
                 hsmp.put(compute,hsmp.getOrDefault(compute,0)+1);
 
