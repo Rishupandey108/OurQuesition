@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Rishupandey108/OurQuesition/tree/master/1399-count-largest-group) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
+| [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
+| [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Rishupandey108/OurQuesition/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishupandey108/OurQuesition/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0940-distinct-subsequences-ii) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishupandey108/OurQuesition/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
 | [1927-sum-game](https://github.com/Rishupandey108/OurQuesition/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Rishupandey108/OurQuesition/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishupandey108/OurQuesition/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishupandey108/OurQuesition/tree/master/3090-maximum-length-substring-with-two-occurrences) |
