@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Rishupandey108/OurQuesition/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Rishupandey108/OurQuesition/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1829-maximum-xor-for-each-query](https://github.com/Rishupandey108/OurQuesition/tree/master/1829-maximum-xor-for-each-query) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Rishupandey108/OurQuesition/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1920-build-array-from-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/1920-build-array-from-permutation) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
+| [1829-maximum-xor-for-each-query](https://github.com/Rishupandey108/OurQuesition/tree/master/1829-maximum-xor-for-each-query) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishupandey108/OurQuesition/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1829-maximum-xor-for-each-query](https://github.com/Rishupandey108/OurQuesition/tree/master/1829-maximum-xor-for-each-query) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rishupandey108/OurQuesition/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/3354-make-array-elements-equal-to-zero) |
