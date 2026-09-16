@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/Rishupandey108/OurQuesition/tree/master/0835-image-overlap) |
+| [0929-unique-email-addresses](https://github.com/Rishupandey108/OurQuesition/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
 | [0999-available-captures-for-rook](https://github.com/Rishupandey108/OurQuesition/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Rishupandey108/OurQuesition/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0859-buddy-strings) |
+| [0929-unique-email-addresses](https://github.com/Rishupandey108/OurQuesition/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Rishupandey108/OurQuesition/tree/master/1386-cinema-seat-allocation) |
 | [1399-count-largest-group](https://github.com/Rishupandey108/OurQuesition/tree/master/1399-count-largest-group) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Rishupandey108/OurQuesition/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0859-buddy-strings) |
+| [0929-unique-email-addresses](https://github.com/Rishupandey108/OurQuesition/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0940-distinct-subsequences-ii) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Rishupandey108/OurQuesition/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
