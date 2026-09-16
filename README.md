@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Rishupandey108/OurQuesition/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Rishupandey108/OurQuesition/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0938-range-sum-of-bst) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Rishupandey108/OurQuesition/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rishupandey108/OurQuesition/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rishupandey108/OurQuesition/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Rishupandey108/OurQuesition/tree/master/0682-baseball-game) |
+| [0897-increasing-order-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0897-increasing-order-search-tree) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rishupandey108/OurQuesition/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Rishupandey108/OurQuesition/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rishupandey108/OurQuesition/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Rishupandey108/OurQuesition/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rishupandey108/OurQuesition/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0938-range-sum-of-bst) |
 ## Iterator
 |  |
