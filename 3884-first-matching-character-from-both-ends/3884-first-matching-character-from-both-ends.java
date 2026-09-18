@@ -10,6 +10,7 @@ class Solution {
          while(left<=right){
             if(s.charAt(left)==s.charAt(right)){
                 index = Math.min(index,left);
+                break;
             }
             left++;
             right--;
