@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Rishupandey108/OurQuesition/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3913-sort-vowels-by-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Rishupandey108/OurQuesition/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rishupandey108/OurQuesition/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3913-sort-vowels-by-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/3913-sort-vowels-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rishupandey108/OurQuesition/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishupandey108/OurQuesition/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3894-traffic-signal-color) |
+| [3913-sort-vowels-by-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/3913-sort-vowels-by-frequency) |
 ## Enumeration
 |  |
 | ------- |
