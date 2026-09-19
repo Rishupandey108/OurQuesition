@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/Rishupandey108/OurQuesition/tree/master/1399-count-largest-group) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Rishupandey108/OurQuesition/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishupandey108/OurQuesition/tree/master/1030-matrix-cells-in-distance-order) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Rishupandey108/OurQuesition/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Rishupandey108/OurQuesition/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Rishupandey108/OurQuesition/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Linked List
 |  |
