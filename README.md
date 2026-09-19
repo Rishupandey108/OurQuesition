@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0463-island-perimeter](https://github.com/Rishupandey108/OurQuesition/tree/master/0463-island-perimeter) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Rishupandey108/OurQuesition/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0598-range-addition-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Rishupandey108/OurQuesition/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/Rishupandey108/OurQuesition/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0344-reverse-string) |
 | [0481-magical-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0481-magical-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Rishupandey108/OurQuesition/tree/master/0696-count-binary-substrings) |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
