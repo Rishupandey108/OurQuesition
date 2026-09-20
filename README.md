@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/3498-reverse-degree-of-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3894-traffic-signal-color) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/Rishupandey108/OurQuesition/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishupandey108/OurQuesition/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rishupandey108/OurQuesition/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishupandey108/OurQuesition/tree/master/3884-first-matching-character-from-both-ends) |
