@@ -22,9 +22,11 @@ class Solution {
             return true;
         }
 
-        if(root.val==subRoot.val){
-            checkSubTreee(root,subRoot);
-        }
+       
+            if(checkSubTreee(root,subRoot)){
+                    return true;
+            }
+        
 
         return isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot);
     }
