@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rishupandey108/OurQuesition/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Rishupandey108/OurQuesition/tree/master/0802-find-eventual-safe-states) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Rishupandey108/OurQuesition/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0938-range-sum-of-bst) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Rishupandey108/OurQuesition/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0938-range-sum-of-bst) |
