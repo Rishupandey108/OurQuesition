@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [1732-find-the-highest-altitude](https://github.com/Rishupandey108/OurQuesition/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1817-finding-the-users-active-minutes](https://github.com/Rishupandey108/OurQuesition/tree/master/1817-finding-the-users-active-minutes) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Rishupandey108/OurQuesition/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/Rishupandey108/OurQuesition/tree/master/1829-maximum-xor-for-each-query) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1817-finding-the-users-active-minutes](https://github.com/Rishupandey108/OurQuesition/tree/master/1817-finding-the-users-active-minutes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/2423-remove-letter-to-equalize-frequency) |
