@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Rishupandey108/OurQuesition/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Rishupandey108/OurQuesition/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rishupandey108/OurQuesition/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/Rishupandey108/OurQuesition/tree/master/1817-finding-the-users-active-minutes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishupandey108/OurQuesition/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Rishupandey108/OurQuesition/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Rishupandey108/OurQuesition/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2409-count-days-spent-together](https://github.com/Rishupandey108/OurQuesition/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/2423-remove-letter-to-equalize-frequency) |
