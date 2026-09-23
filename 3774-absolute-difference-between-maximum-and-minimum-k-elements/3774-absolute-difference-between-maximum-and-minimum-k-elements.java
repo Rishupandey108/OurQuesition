@@ -6,9 +6,11 @@ class Solution {
         int min =0,max = 0;
 
         for(int i=0;i<k;i++){
+            min+=nums[i];
+        }
 
-                min +=nums[i];
-                max += nums[nums.length-1-i];
+        for(int i=nums.length-1;i>=nums.length-k;i--){
+            max+=nums[i];
         }
 
         return Math.abs(max-min);
