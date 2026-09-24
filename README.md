@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishupandey108/OurQuesition/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Rishupandey108/OurQuesition/tree/master/0115-distinct-subsequences) |
+| [0257-binary-tree-paths](https://github.com/Rishupandey108/OurQuesition/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Rishupandey108/OurQuesition/tree/master/0409-longest-palindrome) |
 | [0481-magical-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0481-magical-string) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rishupandey108/OurQuesition/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/Rishupandey108/OurQuesition/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Rishupandey108/OurQuesition/tree/master/0463-island-perimeter) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rishupandey108/OurQuesition/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Rishupandey108/OurQuesition/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0543-diameter-of-binary-tree) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rishupandey108/OurQuesition/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Rishupandey108/OurQuesition/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0543-diameter-of-binary-tree) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishupandey108/OurQuesition/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/Rishupandey108/OurQuesition/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
