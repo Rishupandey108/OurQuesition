@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rishupandey108/OurQuesition/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Rishupandey108/OurQuesition/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/Rishupandey108/OurQuesition/tree/master/1817-finding-the-users-active-minutes) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Rishupandey108/OurQuesition/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/Rishupandey108/OurQuesition/tree/master/1817-finding-the-users-active-minutes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1370-increasing-decreasing-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishupandey108/OurQuesition/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Rishupandey108/OurQuesition/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Rishupandey108/OurQuesition/tree/master/2125-number-of-laser-beams-in-a-bank) |
