@@ -17,12 +17,9 @@ class Solution {
             i++;
         }
 
-        Arrays.sort(arr,(a,b) -> {
-            if(a[1]!=b[1]){
-                return Integer.compare(a[1],b[1]);
-            }
-            return Integer.compare(a[0],b[0]);
-        });
+        Arrays.sort(arr,(a,b) -> 
+           Integer.compare(a[0],b[0])
+        );
 
         int [] res = new int[2];
 
@@ -33,7 +30,7 @@ class Solution {
                 if(arr[i][1]!=arr[j][1]){
                     res[0] = arr[i][0];
                     res[1] = arr[j][0];
-                    Arrays.sort(res);
+                    // Arrays.sort(res);
                     return res;
                 }
             }
