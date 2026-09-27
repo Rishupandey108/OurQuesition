@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/Rishupandey108/OurQuesition/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Rishupandey108/OurQuesition/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
 | [1370-increasing-decreasing-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1370-increasing-decreasing-string) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Rishupandey108/OurQuesition/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0897-increasing-order-search-tree) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rishupandey108/OurQuesition/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
@@ -921,4 +923,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0572-subtree-of-another-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
