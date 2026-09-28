@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Rishupandey108/OurQuesition/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rishupandey108/OurQuesition/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/Rishupandey108/OurQuesition/tree/master/4020-elevator-requests-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Rishupandey108/OurQuesition/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Matrix
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/Rishupandey108/OurQuesition/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Rishupandey108/OurQuesition/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3945-digit-frequency-score](https://github.com/Rishupandey108/OurQuesition/tree/master/3945-digit-frequency-score) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Rishupandey108/OurQuesition/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Rishupandey108/OurQuesition/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3913-sort-vowels-by-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/3913-sort-vowels-by-frequency) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Rishupandey108/OurQuesition/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Quickselect
 |  |
 | ------- |
