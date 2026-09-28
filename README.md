@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Rishupandey108/OurQuesition/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishupandey108/OurQuesition/tree/master/1030-matrix-cells-in-distance-order) |
+| [1122-relative-sort-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Rishupandey108/OurQuesition/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Rishupandey108/OurQuesition/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Rishupandey108/OurQuesition/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0859-buddy-strings) |
 | [0929-unique-email-addresses](https://github.com/Rishupandey108/OurQuesition/tree/master/0929-unique-email-addresses) |
+| [1122-relative-sort-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1370-increasing-decreasing-string) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishupandey108/OurQuesition/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishupandey108/OurQuesition/tree/master/1030-matrix-cells-in-distance-order) |
+| [1122-relative-sort-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Rishupandey108/OurQuesition/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishupandey108/OurQuesition/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -943,4 +947,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
