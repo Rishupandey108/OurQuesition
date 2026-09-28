@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rishupandey108/OurQuesition/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishupandey108/OurQuesition/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2670-find-the-distinct-difference-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2670-find-the-distinct-difference-array) |
 | [2717-semi-ordered-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/2717-semi-ordered-permutation) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rishupandey108/OurQuesition/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishupandey108/OurQuesition/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2670-find-the-distinct-difference-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2670-find-the-distinct-difference-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
