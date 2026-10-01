@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Rishupandey108/OurQuesition/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/Rishupandey108/OurQuesition/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rishupandey108/OurQuesition/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0654-maximum-binary-tree) |
+| [0901-online-stock-span](https://github.com/Rishupandey108/OurQuesition/tree/master/0901-online-stock-span) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
 ## Segment Tree
 |  |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rishupandey108/OurQuesition/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Rishupandey108/OurQuesition/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rishupandey108/OurQuesition/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Rishupandey108/OurQuesition/tree/master/1603-design-parking-system) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Rishupandey108/OurQuesition/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [3829-design-ride-sharing-system](https://github.com/Rishupandey108/OurQuesition/tree/master/3829-design-ride-sharing-system) |
