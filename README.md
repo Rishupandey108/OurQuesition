@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3829-design-ride-sharing-system](https://github.com/Rishupandey108/OurQuesition/tree/master/3829-design-ride-sharing-system) |
 | [3842-toggle-light-bulbs](https://github.com/Rishupandey108/OurQuesition/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Rishupandey108/OurQuesition/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3945-digit-frequency-score](https://github.com/Rishupandey108/OurQuesition/tree/master/3945-digit-frequency-score) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Rishupandey108/OurQuesition/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [2043-simple-bank-system](https://github.com/Rishupandey108/OurQuesition/tree/master/2043-simple-bank-system) |
+| [3829-design-ride-sharing-system](https://github.com/Rishupandey108/OurQuesition/tree/master/3829-design-ride-sharing-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/0295-find-median-from-data-stream) |
 | [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
+| [3829-design-ride-sharing-system](https://github.com/Rishupandey108/OurQuesition/tree/master/3829-design-ride-sharing-system) |
 ## Nim Game
 |  |
 | ------- |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishupandey108/OurQuesition/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rishupandey108/OurQuesition/tree/master/2073-time-needed-to-buy-tickets) |
+| [3829-design-ride-sharing-system](https://github.com/Rishupandey108/OurQuesition/tree/master/3829-design-ride-sharing-system) |
 ## Polygons
 |  |
 | ------- |
