@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rishupandey108/OurQuesition/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/Rishupandey108/OurQuesition/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/Rishupandey108/OurQuesition/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rishupandey108/OurQuesition/tree/master/1710-maximum-units-on-a-truck) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1370-increasing-decreasing-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishupandey108/OurQuesition/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1496-path-crossing](https://github.com/Rishupandey108/OurQuesition/tree/master/1496-path-crossing) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Rishupandey108/OurQuesition/tree/master/1763-longest-nice-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rishupandey108/OurQuesition/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Rishupandey108/OurQuesition/tree/master/1472-design-browser-history) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -966,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
