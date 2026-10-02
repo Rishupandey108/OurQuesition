@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2717-semi-ordered-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/2717-semi-ordered-permutation) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/2748-number-of-beautiful-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rishupandey108/OurQuesition/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rishupandey108/OurQuesition/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2899-last-visited-integers](https://github.com/Rishupandey108/OurQuesition/tree/master/2899-last-visited-integers) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rishupandey108/OurQuesition/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishupandey108/OurQuesition/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rishupandey108/OurQuesition/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
