@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Rishupandey108/OurQuesition/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rishupandey108/OurQuesition/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rishupandey108/OurQuesition/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Rishupandey108/OurQuesition/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishupandey108/OurQuesition/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rishupandey108/OurQuesition/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Rishupandey108/OurQuesition/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishupandey108/OurQuesition/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rishupandey108/OurQuesition/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Rishupandey108/OurQuesition/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rishupandey108/OurQuesition/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Rishupandey108/OurQuesition/tree/master/0696-count-binary-substrings) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rishupandey108/OurQuesition/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
