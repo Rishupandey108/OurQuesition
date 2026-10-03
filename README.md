@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Rishupandey108/OurQuesition/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rishupandey108/OurQuesition/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Rishupandey108/OurQuesition/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/1641-count-sorted-vowel-strings) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Rishupandey108/OurQuesition/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Rishupandey108/OurQuesition/tree/master/1732-find-the-highest-altitude) |
 | [1829-maximum-xor-for-each-query](https://github.com/Rishupandey108/OurQuesition/tree/master/1829-maximum-xor-for-each-query) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
