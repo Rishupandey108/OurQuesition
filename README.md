@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/Rishupandey108/OurQuesition/tree/master/1504-count-submatrices-with-all-ones) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Rishupandey108/OurQuesition/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Rishupandey108/OurQuesition/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Rishupandey108/OurQuesition/tree/master/1291-sequential-digits) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Rishupandey108/OurQuesition/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/2094-finding-3-digit-even-numbers) |
 | [2928-distribute-candies-among-children-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2928-distribute-candies-among-children-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
