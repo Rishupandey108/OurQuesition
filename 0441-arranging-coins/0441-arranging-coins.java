@@ -4,21 +4,18 @@ class Solution {
         if(n==1) return 1;
         if(n==0) return 0;
         
-            int result =0,i=1;
+        int temp = n;
 
-            while(i<n){
-
+        for(int i=0;i<temp;++i){
+            if(i<n){
                 n-=i;
-                 result+=1;
-
-                if(i+1<=n){
-                     i++;
-                }else {
-                    break;
-                }
-               
+            }
+             if(i+1>n){
+                return i;
             }
 
-            return  i;
+        }
+
+        return 0;
     }
 }
