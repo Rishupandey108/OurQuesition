@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Rishupandey108/OurQuesition/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Rishupandey108/OurQuesition/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Rishupandey108/OurQuesition/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Rishupandey108/OurQuesition/tree/master/0504-base-7) |
 | [0598-range-addition-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0633-sum-of-square-numbers) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Rishupandey108/OurQuesition/tree/master/0409-longest-palindrome) |
 | [0481-magical-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0481-magical-string) |
+| [0504-base-7](https://github.com/Rishupandey108/OurQuesition/tree/master/0504-base-7) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Rishupandey108/OurQuesition/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0657-robot-return-to-origin) |
