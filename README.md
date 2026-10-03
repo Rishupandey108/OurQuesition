@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishupandey108/OurQuesition/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Rishupandey108/OurQuesition/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Rishupandey108/OurQuesition/tree/master/0257-binary-tree-paths) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Rishupandey108/OurQuesition/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0583-delete-operation-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Rishupandey108/OurQuesition/tree/master/0788-rotated-digits) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishupandey108/OurQuesition/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Rishupandey108/OurQuesition/tree/master/0173-binary-search-tree-iterator) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rishupandey108/OurQuesition/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
