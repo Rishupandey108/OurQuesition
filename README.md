@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Rishupandey108/OurQuesition/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/Rishupandey108/OurQuesition/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Rishupandey108/OurQuesition/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/Rishupandey108/OurQuesition/tree/master/0492-construct-the-rectangle) |
 | [0598-range-addition-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0633-sum-of-square-numbers) |
