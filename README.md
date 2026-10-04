@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Rishupandey108/OurQuesition/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2241-design-an-atm-machine](https://github.com/Rishupandey108/OurQuesition/tree/master/2241-design-an-atm-machine) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Rishupandey108/OurQuesition/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Rishupandey108/OurQuesition/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishupandey108/OurQuesition/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2241-design-an-atm-machine](https://github.com/Rishupandey108/OurQuesition/tree/master/2241-design-an-atm-machine) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rishupandey108/OurQuesition/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Rishupandey108/OurQuesition/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/1656-design-an-ordered-stream) |
 | [1670-design-front-middle-back-queue](https://github.com/Rishupandey108/OurQuesition/tree/master/1670-design-front-middle-back-queue) |
 | [2043-simple-bank-system](https://github.com/Rishupandey108/OurQuesition/tree/master/2043-simple-bank-system) |
+| [2241-design-an-atm-machine](https://github.com/Rishupandey108/OurQuesition/tree/master/2241-design-an-atm-machine) |
 | [3829-design-ride-sharing-system](https://github.com/Rishupandey108/OurQuesition/tree/master/3829-design-ride-sharing-system) |
 ## Binary Search Tree
 |  |
