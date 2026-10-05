@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3945-digit-frequency-score](https://github.com/Rishupandey108/OurQuesition/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Rishupandey108/OurQuesition/tree/master/3959-check-good-integer) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Rishupandey108/OurQuesition/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Rishupandey108/OurQuesition/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [3996-even-number-of-knight-moves](https://github.com/Rishupandey108/OurQuesition/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rishupandey108/OurQuesition/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Greedy
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishupandey108/OurQuesition/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3894-traffic-signal-color) |
 | [3913-sort-vowels-by-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/3913-sort-vowels-by-frequency) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Rishupandey108/OurQuesition/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4030-check-ascii-palindromic](https://github.com/Rishupandey108/OurQuesition/tree/master/4030-check-ascii-palindromic) |
 ## Enumeration
 |  |
