@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Rishupandey108/OurQuesition/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Rishupandey108/OurQuesition/tree/master/0263-ugly-number) |
+| [0365-water-and-jug-problem](https://github.com/Rishupandey108/OurQuesition/tree/master/0365-water-and-jug-problem) |
 | [0382-linked-list-random-node](https://github.com/Rishupandey108/OurQuesition/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Rishupandey108/OurQuesition/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Rishupandey108/OurQuesition/tree/master/0492-construct-the-rectangle) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishupandey108/OurQuesition/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/Rishupandey108/OurQuesition/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/Rishupandey108/OurQuesition/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Rishupandey108/OurQuesition/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rishupandey108/OurQuesition/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Rishupandey108/OurQuesition/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/Rishupandey108/OurQuesition/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/Rishupandey108/OurQuesition/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Rishupandey108/OurQuesition/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1070,4 +1073,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0729-my-calendar-i) |
 | [0855-exam-room](https://github.com/Rishupandey108/OurQuesition/tree/master/0855-exam-room) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Rishupandey108/OurQuesition/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Rishupandey108/OurQuesition/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Rishupandey108/OurQuesition/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Rishupandey108/OurQuesition/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
