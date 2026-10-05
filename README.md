@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/Rishupandey108/OurQuesition/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Rishupandey108/OurQuesition/tree/master/0504-base-7) |
+| [0593-valid-square](https://github.com/Rishupandey108/OurQuesition/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0633-sum-of-square-numbers) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Rishupandey108/OurQuesition/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Rishupandey108/OurQuesition/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishupandey108/OurQuesition/tree/master/1030-matrix-cells-in-distance-order) |
