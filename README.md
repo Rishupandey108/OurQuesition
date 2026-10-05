@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3127-make-a-square-with-the-same-color) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Rishupandey108/OurQuesition/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Rishupandey108/OurQuesition/tree/master/3200-maximum-height-of-a-triangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2899-last-visited-integers](https://github.com/Rishupandey108/OurQuesition/tree/master/2899-last-visited-integers) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rishupandey108/OurQuesition/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Rishupandey108/OurQuesition/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Rishupandey108/OurQuesition/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/Rishupandey108/OurQuesition/tree/master/3024-type-of-triangle) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Rishupandey108/OurQuesition/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Rishupandey108/OurQuesition/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/1641-count-sorted-vowel-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2928-distribute-candies-among-children-i) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Rishupandey108/OurQuesition/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Stack
 |  |
 | ------- |
@@ -791,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/Rishupandey108/OurQuesition/tree/master/1829-maximum-xor-for-each-query) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rishupandey108/OurQuesition/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Rishupandey108/OurQuesition/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3903-smallest-stable-index-i) |
