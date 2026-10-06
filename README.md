@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/Rishupandey108/OurQuesition/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rishupandey108/OurQuesition/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rishupandey108/OurQuesition/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3978-unique-middle-element](https://github.com/Rishupandey108/OurQuesition/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Rishupandey108/OurQuesition/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3996-even-number-of-knight-moves](https://github.com/Rishupandey108/OurQuesition/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rishupandey108/OurQuesition/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Rishupandey108/OurQuesition/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3913-sort-vowels-by-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/3913-sort-vowels-by-frequency) |
+| [3978-unique-middle-element](https://github.com/Rishupandey108/OurQuesition/tree/master/3978-unique-middle-element) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Rishupandey108/OurQuesition/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Quickselect
 |  |
