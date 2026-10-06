@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3039-apply-operations-to-make-string-empty](https://github.com/Rishupandey108/OurQuesition/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishupandey108/OurQuesition/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3127-make-a-square-with-the-same-color) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Rishupandey108/OurQuesition/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
