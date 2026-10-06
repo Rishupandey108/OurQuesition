@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishupandey108/OurQuesition/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Rishupandey108/OurQuesition/tree/master/3024-type-of-triangle) |
+| [3028-ant-on-the-boundary](https://github.com/Rishupandey108/OurQuesition/tree/master/3028-ant-on-the-boundary) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Rishupandey108/OurQuesition/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2717-semi-ordered-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/2717-semi-ordered-permutation) |
 | [2899-last-visited-integers](https://github.com/Rishupandey108/OurQuesition/tree/master/2899-last-visited-integers) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rishupandey108/OurQuesition/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3028-ant-on-the-boundary](https://github.com/Rishupandey108/OurQuesition/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Rishupandey108/OurQuesition/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Rishupandey108/OurQuesition/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/Rishupandey108/OurQuesition/tree/master/1829-maximum-xor-for-each-query) |
 | [1872-stone-game-viii](https://github.com/Rishupandey108/OurQuesition/tree/master/1872-stone-game-viii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rishupandey108/OurQuesition/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3028-ant-on-the-boundary](https://github.com/Rishupandey108/OurQuesition/tree/master/3028-ant-on-the-boundary) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Rishupandey108/OurQuesition/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
