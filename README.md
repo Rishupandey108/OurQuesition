@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/3912-valid-elements-in-an-array) |
+| [3921-score-validator](https://github.com/Rishupandey108/OurQuesition/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rishupandey108/OurQuesition/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rishupandey108/OurQuesition/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Rishupandey108/OurQuesition/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/Rishupandey108/OurQuesition/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/Rishupandey108/OurQuesition/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rishupandey108/OurQuesition/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/Rishupandey108/OurQuesition/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/Rishupandey108/OurQuesition/tree/master/4020-elevator-requests-i) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishupandey108/OurQuesition/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3894-traffic-signal-color) |
 | [3913-sort-vowels-by-frequency](https://github.com/Rishupandey108/OurQuesition/tree/master/3913-sort-vowels-by-frequency) |
+| [3921-score-validator](https://github.com/Rishupandey108/OurQuesition/tree/master/3921-score-validator) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Rishupandey108/OurQuesition/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4030-check-ascii-palindromic](https://github.com/Rishupandey108/OurQuesition/tree/master/4030-check-ascii-palindromic) |
 ## Enumeration
