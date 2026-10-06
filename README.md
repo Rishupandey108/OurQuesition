@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/0054-spiral-matrix) |
 | [0228-summary-ranges](https://github.com/Rishupandey108/OurQuesition/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Rishupandey108/OurQuesition/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rishupandey108/OurQuesition/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Rishupandey108/OurQuesition/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Rishupandey108/OurQuesition/tree/master/0274-h-index) |
 | [1122-relative-sort-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishupandey108/OurQuesition/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3517-smallest-palindromic-rearrangement-i) |
