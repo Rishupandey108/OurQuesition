@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Rishupandey108/OurQuesition/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Rishupandey108/OurQuesition/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/Rishupandey108/OurQuesition/tree/master/0620-not-boring-movies) |
+| [1075-project-employees-i](https://github.com/Rishupandey108/OurQuesition/tree/master/1075-project-employees-i) |
 ## Math
 |  |
 | ------- |
