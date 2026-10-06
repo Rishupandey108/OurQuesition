@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishupandey108/OurQuesition/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3637-trionic-array-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/Rishupandey108/OurQuesition/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Rishupandey108/OurQuesition/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3697-compute-decimal-representation](https://github.com/Rishupandey108/OurQuesition/tree/master/3697-compute-decimal-representation) |
