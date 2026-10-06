@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/3912-valid-elements-in-an-array) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Rishupandey108/OurQuesition/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/Rishupandey108/OurQuesition/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rishupandey108/OurQuesition/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rishupandey108/OurQuesition/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
