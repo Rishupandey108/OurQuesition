@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Rishupandey108/OurQuesition/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3819-rotate-non-negative-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3819-rotate-non-negative-elements) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3829-design-ride-sharing-system](https://github.com/Rishupandey108/OurQuesition/tree/master/3829-design-ride-sharing-system) |
 | [3842-toggle-light-bulbs](https://github.com/Rishupandey108/OurQuesition/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Rishupandey108/OurQuesition/tree/master/3852-smallest-pair-with-different-frequencies) |
