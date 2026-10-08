@@ -19,9 +19,9 @@ class Solution {
                 dec.clear();
             }
 
-            result = Math.max(result,Math.max(dec.size(),inc.size())+1);
+            result = Math.max(result,Math.max(dec.size(),inc.size()));
          }
 
-          return result;
+          return result+1;
     }
 }
