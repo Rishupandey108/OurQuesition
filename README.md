@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3697-compute-decimal-representation](https://github.com/Rishupandey108/OurQuesition/tree/master/3697-compute-decimal-representation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishupandey108/OurQuesition/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Rishupandey108/OurQuesition/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishupandey108/OurQuesition/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishupandey108/OurQuesition/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3731-find-missing-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Rishupandey108/OurQuesition/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/Rishupandey108/OurQuesition/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishupandey108/OurQuesition/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
