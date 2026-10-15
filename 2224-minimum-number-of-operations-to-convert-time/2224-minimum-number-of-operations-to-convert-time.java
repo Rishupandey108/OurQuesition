@@ -16,18 +16,21 @@ class Solution {
 
          int Totaldiff = correctTime-currentTime;
          
-         result += Totaldiff/60;
-         
-         Totaldiff = Totaldiff%60;
-         
-         result += Totaldiff/15;
-         
-         Totaldiff = Totaldiff%15;
-         
-         result += Totaldiff/5;
-         
-         Totaldiff = Totaldiff%5;
-         
+
+         if(Totaldiff>=60){
+                result += Totaldiff/60;
+                Totaldiff = Totaldiff%60;
+         }
+
+         if(Totaldiff>=15){
+            result += Totaldiff/15;
+            Totaldiff = Totaldiff%15;
+         }
+
+         if(Totaldiff>=5){
+            result += Totaldiff/5;
+            Totaldiff = Totaldiff%5;
+         }
          
          result += Totaldiff;
          return result;
