@@ -12,7 +12,7 @@ class Solution {
 
                 hst.add(nums.get(j));
 
-                result += Math.pow(hst.size(),2);
+               result+= hst.size()*hst.size();
 
             }
         }
