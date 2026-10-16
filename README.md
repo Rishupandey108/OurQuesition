@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rishupandey108/OurQuesition/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Rishupandey108/OurQuesition/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Rishupandey108/OurQuesition/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rishupandey108/OurQuesition/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/0054-spiral-matrix) |
 | [0228-summary-ranges](https://github.com/Rishupandey108/OurQuesition/tree/master/0228-summary-ranges) |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishupandey108/OurQuesition/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Rishupandey108/OurQuesition/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Rishupandey108/OurQuesition/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
@@ -1170,4 +1172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishupandey108/OurQuesition/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rishupandey108/OurQuesition/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
