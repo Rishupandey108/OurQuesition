@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Rishupandey108/OurQuesition/tree/master/3285-find-indices-of-stable-mountains) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Rishupandey108/OurQuesition/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3467-transform-array-by-parity](https://github.com/Rishupandey108/OurQuesition/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rishupandey108/OurQuesition/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/3483-unique-3-digit-even-numbers) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3127-make-a-square-with-the-same-color) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Rishupandey108/OurQuesition/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rishupandey108/OurQuesition/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/Rishupandey108/OurQuesition/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Rishupandey108/OurQuesition/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishupandey108/OurQuesition/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
