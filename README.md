@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Rishupandey108/OurQuesition/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishupandey108/OurQuesition/tree/master/1030-matrix-cells-in-distance-order) |
+| [1094-car-pooling](https://github.com/Rishupandey108/OurQuesition/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Rishupandey108/OurQuesition/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Rishupandey108/OurQuesition/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rishupandey108/OurQuesition/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishupandey108/OurQuesition/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0999-available-captures-for-rook](https://github.com/Rishupandey108/OurQuesition/tree/master/0999-available-captures-for-rook) |
+| [1094-car-pooling](https://github.com/Rishupandey108/OurQuesition/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/Rishupandey108/OurQuesition/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1324-print-words-vertically](https://github.com/Rishupandey108/OurQuesition/tree/master/1324-print-words-vertically) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishupandey108/OurQuesition/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rishupandey108/OurQuesition/tree/master/1030-matrix-cells-in-distance-order) |
+| [1094-car-pooling](https://github.com/Rishupandey108/OurQuesition/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Rishupandey108/OurQuesition/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Rishupandey108/OurQuesition/tree/master/0743-network-delay-time) |
 | [0855-exam-room](https://github.com/Rishupandey108/OurQuesition/tree/master/0855-exam-room) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/Rishupandey108/OurQuesition/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -859,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Rishupandey108/OurQuesition/tree/master/1094-car-pooling) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rishupandey108/OurQuesition/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
