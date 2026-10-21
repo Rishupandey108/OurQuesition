@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishupandey108/OurQuesition/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Rishupandey108/OurQuesition/tree/master/0018-4sum) |
+| [0045-jump-game-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Rishupandey108/OurQuesition/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rishupandey108/OurQuesition/tree/master/0053-maximum-subarray) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishupandey108/OurQuesition/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/Rishupandey108/OurQuesition/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/Rishupandey108/OurQuesition/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0678-valid-parenthesis-string) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishupandey108/OurQuesition/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rishupandey108/OurQuesition/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Rishupandey108/OurQuesition/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishupandey108/OurQuesition/tree/master/0583-delete-operation-for-two-strings) |
