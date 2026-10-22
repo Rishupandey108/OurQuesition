@@ -7,22 +7,30 @@ class Solution {
 
         if(n==0 || tokens[0]>power) return 0;
 
-        int j=0;
+        int j=n;
+        int i=0;
 
-         for(int i=0;i<n-j;i++){
+        while(i<j){
 
             if(tokens[i]>power){
-                ++j;
-                power+= tokens[n-j];
+
+                --j;
+                power+= tokens[j];
+
                 if(result>0){
+
                     result-=1;
+
                 }
             }
 
             if(tokens[i]<=power){
+
                     result+=1;
+
                     power-=tokens[i];
             }
+            i++;
          }
         
         return result;
