@@ -3,8 +3,6 @@ class Solution {
         int result = 0;
         int n = tokens.length;
 
-         
-
         Arrays.sort(tokens);
 
         if(n==0 || tokens[0]>power) return 0;
