@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0729-my-calendar-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Rishupandey108/OurQuesition/tree/master/0769-max-chunks-to-make-sorted) |
 | [0835-image-overlap](https://github.com/Rishupandey108/OurQuesition/tree/master/0835-image-overlap) |
+| [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
 | [0929-unique-email-addresses](https://github.com/Rishupandey108/OurQuesition/tree/master/0929-unique-email-addresses) |
 | [0948-bag-of-tokens](https://github.com/Rishupandey108/OurQuesition/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishupandey108/OurQuesition/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Rishupandey108/OurQuesition/tree/master/0769-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Rishupandey108/OurQuesition/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishupandey108/OurQuesition/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Rishupandey108/OurQuesition/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Rishupandey108/OurQuesition/tree/master/0769-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishupandey108/OurQuesition/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Rishupandey108/OurQuesition/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/Rishupandey108/OurQuesition/tree/master/1386-cinema-seat-allocation) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Rishupandey108/OurQuesition/tree/master/0696-count-binary-substrings) |
+| [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Rishupandey108/OurQuesition/tree/master/0948-bag-of-tokens) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -1197,4 +1201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rishupandey108/OurQuesition/tree/master/0051-n-queens) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
