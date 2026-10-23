@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0729-my-calendar-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Rishupandey108/OurQuesition/tree/master/0769-max-chunks-to-make-sorted) |
 | [0835-image-overlap](https://github.com/Rishupandey108/OurQuesition/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/Rishupandey108/OurQuesition/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
 | [0929-unique-email-addresses](https://github.com/Rishupandey108/OurQuesition/tree/master/0929-unique-email-addresses) |
 | [0948-bag-of-tokens](https://github.com/Rishupandey108/OurQuesition/tree/master/0948-bag-of-tokens) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0729-my-calendar-i) |
+| [0875-koko-eating-bananas](https://github.com/Rishupandey108/OurQuesition/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
