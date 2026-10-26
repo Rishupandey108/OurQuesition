@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rishupandey108/OurQuesition/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/Rishupandey108/OurQuesition/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Rishupandey108/OurQuesition/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Rishupandey108/OurQuesition/tree/master/2965-find-missing-and-repeated-values) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3127-make-a-square-with-the-same-color) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Rishupandey108/OurQuesition/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rishupandey108/OurQuesition/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rishupandey108/OurQuesition/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rishupandey108/OurQuesition/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -748,12 +751,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rishupandey108/OurQuesition/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rishupandey108/OurQuesition/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Rishupandey108/OurQuesition/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rishupandey108/OurQuesition/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rishupandey108/OurQuesition/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
