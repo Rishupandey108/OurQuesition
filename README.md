@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/1352-product-of-the-last-k-numbers) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rishupandey108/OurQuesition/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1357-apply-discount-every-n-orders](https://github.com/Rishupandey108/OurQuesition/tree/master/1357-apply-discount-every-n-orders) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rishupandey108/OurQuesition/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1386-cinema-seat-allocation](https://github.com/Rishupandey108/OurQuesition/tree/master/1386-cinema-seat-allocation) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Rishupandey108/OurQuesition/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rishupandey108/OurQuesition/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishupandey108/OurQuesition/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Rishupandey108/OurQuesition/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Rishupandey108/OurQuesition/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rishupandey108/OurQuesition/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rishupandey108/OurQuesition/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishupandey108/OurQuesition/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Rishupandey108/OurQuesition/tree/master/0948-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rishupandey108/OurQuesition/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rishupandey108/OurQuesition/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/Rishupandey108/OurQuesition/tree/master/1386-cinema-seat-allocation) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rishupandey108/OurQuesition/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishupandey108/OurQuesition/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
