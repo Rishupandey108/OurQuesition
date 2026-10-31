@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0729-my-calendar-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Rishupandey108/OurQuesition/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/Rishupandey108/OurQuesition/tree/master/0781-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/Rishupandey108/OurQuesition/tree/master/0826-most-profit-assigning-work) |
 | [0835-image-overlap](https://github.com/Rishupandey108/OurQuesition/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Rishupandey108/OurQuesition/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Rishupandey108/OurQuesition/tree/master/0769-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/Rishupandey108/OurQuesition/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Rishupandey108/OurQuesition/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishupandey108/OurQuesition/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rishupandey108/OurQuesition/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Rishupandey108/OurQuesition/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/Rishupandey108/OurQuesition/tree/master/0781-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/Rishupandey108/OurQuesition/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishupandey108/OurQuesition/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Rishupandey108/OurQuesition/tree/master/0948-bag-of-tokens) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rishupandey108/OurQuesition/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Rishupandey108/OurQuesition/tree/master/0696-count-binary-substrings) |
+| [0826-most-profit-assigning-work](https://github.com/Rishupandey108/OurQuesition/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/Rishupandey108/OurQuesition/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Rishupandey108/OurQuesition/tree/master/0948-bag-of-tokens) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/Rishupandey108/OurQuesition/tree/master/0729-my-calendar-i) |
+| [0826-most-profit-assigning-work](https://github.com/Rishupandey108/OurQuesition/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Rishupandey108/OurQuesition/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishupandey108/OurQuesition/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rishupandey108/OurQuesition/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
