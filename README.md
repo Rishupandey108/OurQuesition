@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Rishupandey108/OurQuesition/tree/master/0463-island-perimeter) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0540-single-element-in-a-sorted-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Rishupandey108/OurQuesition/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Rishupandey108/OurQuesition/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rishupandey108/OurQuesition/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Rishupandey108/OurQuesition/tree/master/0692-top-k-frequent-words) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Rishupandey108/OurQuesition/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Rishupandey108/OurQuesition/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/Rishupandey108/OurQuesition/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Rishupandey108/OurQuesition/tree/master/0504-base-7) |
 | [0593-valid-square](https://github.com/Rishupandey108/OurQuesition/tree/master/0593-valid-square) |
