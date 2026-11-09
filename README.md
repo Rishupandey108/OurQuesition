@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Rishupandey108/OurQuesition/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Rishupandey108/OurQuesition/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Rishupandey108/OurQuesition/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Rishupandey108/OurQuesition/tree/master/1517-find-users-with-valid-e-mails) |
 ## Math
 |  |
 | ------- |
