@@ -1,7 +1,7 @@
 class Solution {
 
     public int longestMonotonicSubarray(int[] nums) {
-         if(nums.length==1) return 1;
+
         Stack<Integer> inc = new Stack<>();
         Stack<Integer> dec =new Stack<>();
         int result = 0;
