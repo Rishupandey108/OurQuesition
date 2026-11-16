@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Rishupandey108/OurQuesition/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Rishupandey108/OurQuesition/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rishupandey108/OurQuesition/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2717-semi-ordered-permutation](https://github.com/Rishupandey108/OurQuesition/tree/master/2717-semi-ordered-permutation) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishupandey108/OurQuesition/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Rishupandey108/OurQuesition/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Rishupandey108/OurQuesition/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Rishupandey108/OurQuesition/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/Rishupandey108/OurQuesition/tree/master/2325-decode-the-message) |
