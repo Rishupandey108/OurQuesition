@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rishupandey108/OurQuesition/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishupandey108/OurQuesition/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2670-find-the-distinct-difference-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Rishupandey108/OurQuesition/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rishupandey108/OurQuesition/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rishupandey108/OurQuesition/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishupandey108/OurQuesition/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rishupandey108/OurQuesition/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2498-frog-jump-ii](https://github.com/Rishupandey108/OurQuesition/tree/master/2498-frog-jump-ii) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Rishupandey108/OurQuesition/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rishupandey108/OurQuesition/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Rishupandey108/OurQuesition/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
