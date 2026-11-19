@@ -1,0 +1,10 @@
+class Solution {
+    public int minimizeSum(int[] nums) {
+        int result =0;
+        int n = nums.length;
+
+        Arrays.sort(nums);
+
+        return Math.min(nums[n-2]-nums[1], Math.min(nums[n-1]-nums[2],nums[n-3]-nums[0]));
+    }
+}
