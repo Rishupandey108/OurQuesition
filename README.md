@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rishupandey108/OurQuesition/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3360-stone-removal-game](https://github.com/Rishupandey108/OurQuesition/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishupandey108/OurQuesition/tree/master/3498-reverse-degree-of-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/Rishupandey108/OurQuesition/tree/master/3819-rotate-non-negative-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Rishupandey108/OurQuesition/tree/master/3842-toggle-light-bulbs) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rishupandey108/OurQuesition/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishupandey108/OurQuesition/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Rishupandey108/OurQuesition/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rishupandey108/OurQuesition/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Rishupandey108/OurQuesition/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishupandey108/OurQuesition/tree/master/3536-maximum-product-of-two-digits) |
